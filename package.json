@@ -1,0 +1,17 @@
+{
+  "name": "ayat-sass-gulp",
+  "version": "1.0.0",
+  "description": "This is sass Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayat",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.1"
+  }
+}

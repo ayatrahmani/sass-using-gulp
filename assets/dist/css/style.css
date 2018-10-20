@@ -1,0 +1,30 @@
+.testing {
+  width: 100%; }
+
+.bg-red {
+  background: red;
+  color: #fff; }
+
+.main, .p {
+  font-size: 20px;
+  color: #000;
+  border: solid 1px red; }
+
+.p {
+  color: red; }
+
+.nesting h1 {
+  color: red; }
+
+.nesting p {
+  color: orange; }
+  .nesting p a {
+    color: blue; }
+
+.mix {
+  border: solid 1px red;
+  border-radius: 10px; }
+
+.div {
+  width: 31.25%;
+  height: 40px; }
